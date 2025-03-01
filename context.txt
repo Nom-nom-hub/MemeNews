@@ -1,0 +1,16 @@
+I want to build a premium-quality PHP meme generator that generates memes based on real-world events using free open router models. The site should be visually appealing, modern, and highly interactive.
+
+Core Features:
+AI-Powered Meme Generation: The system should fetch current trending news and events, analyze them, and generate witty or humorous meme captions.
+Text & Image Integration: Users can upload images, or the AI can select a relevant meme template automatically.
+Template Library: A collection of meme templates that updates frequently.
+Customization Options: Users should be able to edit text, fonts, colors, and image positioning before generating the final meme.
+Sharing & Downloading: Allow memes to be easily shared on social media or downloaded.
+News & Trends Fetching: The system should pull news from RSS feeds or APIs to stay updated with world events.
+Open Router Model Integration: Utilize free open router AI models for text generation, ensuring real-time relevance.
+Tech Stack:
+Backend: PHP (No Composer)
+Frontend: HTML, CSS, JavaScript (modern UI with animations)
+Database: MySQL (for user uploads, templates, and logs)
+AI Models: Integrated via OpenRouter API or local models
+Build this with high performance, premium UI/UX, and full responsiveness. Ensure it is scalable and optimized for fast meme generation. Security should be a priority to prevent abuse or spam.
