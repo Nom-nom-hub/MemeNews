@@ -14,12 +14,12 @@ define('UPLOAD_DIR', 'uploads/');
 define('MAX_UPLOAD_SIZE', 5242880); // 5MB
 
 // OpenRouter API Configuration
-define('OPENROUTER_API_KEY', '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');
+define('OPENROUTER_API_KEY', 'YOUR OPENROUTER API');
 define('OPENROUTER_API_URL', 'https://openrouter.ai/api/v1');
 define('OPENROUTER_MODEL', 'openai/gpt-3.5-turbo'); // Default model
 
 // News API Configuration
-define('NEWS_API_KEY', 'a9c3566438b94105af167de20f150084');
+define('NEWS_API_KEY', 'YOUR NEWS API');
 define('NEWS_API_URL', 'https://newsapi.org/v2/');
 
 // Security Configuration
